@@ -1,0 +1,23 @@
+{
+    "name": "magesource/customerimport",
+    "description": "Magesource Customer Import for Magento 2.",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0"
+    ],
+    "authors": [
+      {
+        "name": "Magesource",
+        "role": "Technical Support"
+      }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Magesource\\CustomerImport\\": ""
+        }
+    }
+  }
