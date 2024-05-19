@@ -3,7 +3,7 @@ Import Customer with command in csv or json files
 
 ## Installation
 
- - Install the module composer by running `composer require magesource/customerimport`
+ - Install the module composer by running `composer require magesource/customerimport:dev-main`
  - Enable the module by running `php bin/magento module:enable Magesource_CustomerImport`
  - Run Magento commands by running
 
